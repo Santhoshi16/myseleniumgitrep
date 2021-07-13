@@ -27,5 +27,9 @@ public class Booking {
 		
 	}
 
+        @Test(groups = {"sanity","post"})
+	public void sam() {
+		
+	}
 
 }
